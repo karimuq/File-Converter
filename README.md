@@ -1,5 +1,7 @@
 <div align="center">
-  <img src="https://github.com/karimuq/File-Converter/releases/download/v1.0.0/logo.png" alt="File Converter Icon" width="128" height="128" />
+ <img width="200" height="200" alt="logo" src="https://github.com/user-attachments/assets/f49fa7e6-b4c3-42de-9270-cb186a640401" />
+
+  
   <h1>File Converter v1.0.0</h1>
   <p><strong>Universal Multi-Platform File Format Converter</strong></p>
 </div>
