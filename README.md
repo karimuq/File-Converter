@@ -15,14 +15,6 @@ This powerful application allows you to effortlessly convert between a wide vari
 - **Offline & Private**: Your files never leave your computer.
 - **Portable**: Ready to run anywhere with our portable Windows executable.
 
-###  Assets Included
-- `File Converter 1.0.0.exe` - Portable executable for Windows.
-- `logo.png` - Application Icon.
-
-> **Note**: This is a closed-source application. Source code is not provided in this release.
-
----
-
 ### Installation
 1. Download the `File Converter 1.0.0.exe` from the assets below.
 2. Run the executable to launch the application immediately (no installation required).
